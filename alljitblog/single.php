@@ -116,7 +116,7 @@ get_header();
                         <div class="object-1">
                             <div class="author_a">
                                 <div class="title_text">
-                                    <p><?php echo esc_html_e( 'Photographer:' , 'alljitblog' ); ?></p>
+                                    <p><?php echo esc_html_e( 'Author:' , 'alljitblog' ); ?></p>
                                 </div>
                                 <div class="object-detail">
                                     <div class="avatar">
@@ -145,7 +145,7 @@ get_header();
                         ?>
                             <div class="author_b">
                                 <div class="title_text">
-                                    <p><?php echo esc_html_e( 'Author:' , 'alljitblog' ); ?></p>
+                                    <p><?php echo esc_html_e( 'Photographer:' , 'alljitblog' ); ?></p>
                                 </div>
                                 <div class="object-detail">
                                     <div class="avatar">
